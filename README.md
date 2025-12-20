@@ -14,7 +14,7 @@
         ![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)
 - ### 📝 I'm still learning <ins>everything</ins> 😄
 - ### 💻 I'm currently making an app called `Rest a Bit` 
-    ###### wait for the release👀
+    wait for the release👀
 
 
 <!--
