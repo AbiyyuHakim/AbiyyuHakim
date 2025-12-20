@@ -3,6 +3,9 @@
 
 <span style="font-size:16px; font-color:black">*And... this is a little*</span> <span style="color: #38a4e2ff; font-size: 20px; font-weight: 500"><ins>*About me*</ins> </span> <span style="font-size:25px">😄</span>
 
+- ### **`Skills`**
+    ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,react&perline=3)
+
 
 <!--
 **AbiyyuHakim/AbiyyuHakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
