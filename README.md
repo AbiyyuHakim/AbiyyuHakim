@@ -3,8 +3,18 @@
 
 <span style="font-size:16px; font-color:black">*And... this is a little*</span> <span style="color: #38a4e2ff; font-size: 20px; font-weight: 500"><ins>*About me*</ins> </span> <span style="font-size:25px">😄</span>
 
-- **`Skills`**
-    ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,react&perline=3)
+- ### **`Skill`**
+    - #### **`web-dev`**
+        ![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)
+    - #### **`backend`**
+        ![My Skills](https://skillicons.dev/icons?i=py,js&perline=3)
+    - #### **`library & frameworks`**
+        ![My Skills](https://skillicons.dev/icons?i=nodejs,react&perline=3)
+    - #### **`database`**
+        ![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)
+- ### 📝 I'm still learning <ins>everything</ins> 😄
+- ### 💻 I'm currently making an app called `Rest a Bit` 
+    ###### wait for the release👀
 
 
 <!--
