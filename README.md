@@ -5,13 +5,17 @@
 
 - ### **`Skill`**
     - #### **`web-dev`**
-        ![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)
+        ![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3&theme=light)
     - #### **`backend`**
-        ![My Skills](https://skillicons.dev/icons?i=py,js&perline=3)
+        ![My Skills](https://skillicons.dev/icons?i=py,js,ts&perline=3&theme=light)
     - #### **`library & frameworks`**
-        ![My Skills](https://skillicons.dev/icons?i=nodejs,react&perline=3)
+        ![My Skills](https://skillicons.dev/icons?i=nodejs,react&perline=3&theme=light)
+        <img src="./img/Untitled (607 x 607 px)_20251224_065401_0000.png" width="48" height="48">
     - #### **`database`**
-        ![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)
+        ![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3&theme=light)
+    - #### **`AI model`**
+        <img src="./img/Untitled (607 x 607 px)_20251224_070955_0000.png" width="48" height="48">
+        <img src="./img/Untitled (607 x 607 px)_20251224_070629_0000.png" width="48" height="48">
 - ### 📝 I'm still learning <ins>everything</ins> 😄
 - ### 💻 I'm currently making an app called `Rest a Bit` 🤔
     wait for the release👀🤫
